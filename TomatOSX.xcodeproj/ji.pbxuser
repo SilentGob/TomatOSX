@@ -1,0 +1,232 @@
+// !$*UTF8*$!
+{
+	0800DB1513BBD8EA001455D6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08E1241413BA84030071D738 /* tomato_red.png */;
+	};
+	0800DB1613BBD8EA001455D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* TomatOSXAppDelegate.h */;
+		name = "TomatOSXAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 0;
+	};
+	0800DB1713BBD8EA001455D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* TomatOSXAppDelegate.m */;
+		name = "TomatOSXAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 472;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 122;
+	};
+	08593D0713BBDEE80012FFDF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08E1241413BA84030071D738 /* tomato_red.png */;
+	};
+	08593D0813BBDEE80012FFDF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* TomatOSXAppDelegate.h */;
+		name = "TomatOSXAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 0;
+	};
+	08593D0913BBDEE80012FFDF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* TomatOSXAppDelegate.m */;
+		name = "TomatOSXAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 472;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 122;
+	};
+	0890812213BBD511006C3CAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* TomatOSXAppDelegate.m */;
+		name = "TomatOSXAppDelegate.m: 54";
+		rLen = 0;
+		rLoc = 1190;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 324;
+	};
+	0890813B13BBD61F006C3CAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 210}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{62, 0}, {750, 778}}";
+		};
+	};
+	08E1237C13B8F7A00071D738 /* TomatOSX */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TomatOSX;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	08E1238D13B8F7A90071D738 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	08E1238E13B8F7A90071D738 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	08E1241413BA84030071D738 /* tomato_red.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{61, 0}, {750, 778}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* TomatOSXAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 523}";
+			sepNavWindowFrame = "{{62, 215}, {750, 558}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* TomatOSXAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 728}}";
+			sepNavSelRange = "{472, 0}";
+			sepNavVisRange = "{122, 1406}";
+			sepNavWindowFrame = "{{135, 0}, {750, 778}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 08E1237C13B8F7A00071D738 /* TomatOSX */;
+		activeTarget = 8D1107260486CEB800E47090 /* TomatOSX */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* TomatOSX */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 08E1238E13B8F7A90071D738 /* Code sense */;
+		executables = (
+			08E1237C13B8F7A00071D738 /* TomatOSX */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331078632;
+			PBXWorkspaceStateSaveDate = 331078632;
+		};
+		perUserProjectItems = {
+			0800DB1513BBD8EA001455D6 /* PBXBookmark */ = 0800DB1513BBD8EA001455D6 /* PBXBookmark */;
+			0800DB1613BBD8EA001455D6 /* PBXTextBookmark */ = 0800DB1613BBD8EA001455D6 /* PBXTextBookmark */;
+			0800DB1713BBD8EA001455D6 /* PBXTextBookmark */ = 0800DB1713BBD8EA001455D6 /* PBXTextBookmark */;
+			08593D0713BBDEE80012FFDF /* PBXBookmark */ = 08593D0713BBDEE80012FFDF /* PBXBookmark */;
+			08593D0813BBDEE80012FFDF /* PBXTextBookmark */ = 08593D0813BBDEE80012FFDF /* PBXTextBookmark */;
+			08593D0913BBDEE80012FFDF /* PBXTextBookmark */ = 08593D0913BBDEE80012FFDF /* PBXTextBookmark */;
+			0890812213BBD511006C3CAB /* PBXTextBookmark */ = 0890812213BBD511006C3CAB /* PBXTextBookmark */;
+			0890813B13BBD61F006C3CAB /* PBXTextBookmark */ = 0890813B13BBD61F006C3CAB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 08E1238D13B8F7A90071D738 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* TomatOSX */ = {
+		activeExec = 0;
+		executables = (
+			08E1237C13B8F7A00071D738 /* TomatOSX */,
+		);
+	};
+	8D1107310486CEB800E47090 /* TomatOSX-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{107, 173}, {750, 558}}";
+		};
+	};
+}
