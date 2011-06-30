@@ -1,20 +1,19 @@
 Simple Cocoa project inspired by Tomate (https://gitorious.org/tomate#more).
 
 The idea is to find a way to start working. 
-The deal is simple, you click the tomato it turns red. You start working.
+The deal is simple, you click the tomato, it turns red, you start working.
 While the tomato is red you are NOT allowed to stop working (and starring at the tomato is not considered working !).
 When the tomato turns green you did your share of work, you can continue working or stop.
 The idea is that once I'm started I will not stop immediatly.
 
 To reset the tomato to the grey idle state, just double click it.
 
-This project was initially made for playing with XCode and Cocoa.
-
+This project was initially made for playing with XCode, Cocoa and StatusBarItem.
 
 Licence:
-
 - No warranty
 - Do what you want with this code
-- If usefull (how is the biggest question !), feel free to buy me a beer ! 
+- If usefull ("how ?" is the biggest question !), feel free to buy me a beer ! 
 
-
+Known Issues:
+There is no way to exit TomatOSX. You have to kill the process.
